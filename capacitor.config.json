@@ -1,0 +1,16 @@
+{
+  "appId": "com.ilmych.deadlinedice",
+  "appName": "Deadline Dice",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#1c1c1e",
+      "showSpinner": false
+    },
+    "StatusBar": {
+      "style": "Dark",
+      "backgroundColor": "#1c1c1e"
+    }
+  }
+}
